@@ -1,9 +1,0 @@
-Step 1 : Read a bulk of resumes in the resume directory
-Step 2 : Extract resume header with related contents
-Step 3: Create a dataset 
-Step 4: Building a spell correction model
-Step 5: Building a grammar correction model
-Step 6: Building a sentence rephraser
-Step 7: Scraping a dataset related to occupations
-Step 8: Check the similarity score from resume data to scraped data, keep threshold and try to replace if score more than the threshold
-Step 9:Finally the resume will be the enhanced resume 
