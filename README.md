@@ -1,12 +1,14 @@
 # Resume Builder Work-flow
 
-1. Screening of resumes  to create a dataset.
-2. Data extraction and deriving a vaulable info out of it.
-3. Creation of NLP model to perform analysis and create effective output.
-4. Evaluate user analysis and generation of resume with resp to their inputs feeded.
-5. Batch training of the model to enhance functionality yet not over train it.
-6. Backend process to automate the entire structure.
-7. Work on Front-end model.
+1. Read a bulk of resumes in the resume directory
+2. Extract resume header with related contents
+3. Create a dataset 
+4. Building a spell correction model
+5. Building a grammar correction model
+6. Building a sentence rephraser
+7. Scraping a dataset related to occupations
+8. Check the similarity score from resume data to scraped data, keep threshold and try to replace if score more than the threshold
+10. Finally the resume will be the enhanced resume 
 
 ## Work Completed 
 
