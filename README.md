@@ -1,7 +1,7 @@
 # Resume Builder Work-flow
 
 
-Guys drop your project ideas here one by one we will start workig on it
+Guys drop your project ideas here one by one we will start working on it
 
 
 ## Work Completed 
