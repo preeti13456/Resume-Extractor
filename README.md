@@ -1,8 +1,12 @@
 # Resume Builder Work-flow
 
-
-Guys drop your project ideas here one by one we will start working on it
-
+Step 1 : Screening of resumes  to create a dataset.
+Step 2 : Data extraction and deriving a vaulable info out of it.
+Step 3 : Creation of NLP model to perform analysis and create effective output.
+Step 4 : Evaluate user analysis and generation of resume with resp to their inputs feeded.
+Step 5 : Batch training of the model to enhance functionality yet not over train it.
+Step 6 : Backend process to automate the entire structure.
+Step 7 : Work on Front-end model.
 
 ## Work Completed 
 
